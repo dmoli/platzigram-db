@@ -1,8 +1,8 @@
 # platzigram-db
 
-Nodejs proyect - Database
+Nodejs project - Database
 
-This proyect communicates directly with RethinkDB
+This project communicates directly with RethinkDB
 
 Skills applied: https://platzi.com/cursos/javascript
 
